@@ -1,0 +1,2 @@
+class Kokuban < ApplicationRecord
+end
